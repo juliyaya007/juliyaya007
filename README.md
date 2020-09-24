@@ -32,7 +32,7 @@ I'm also working as a member of the [Triple C](http://ucsdtriplec.org/), where I
 <p>&nbsp;</p> 
 <p>&nbsp;</p> 
 
-### :link: Links
+### 📫 How to reach me
 [Linkedin](https://www.linkedin.com/in/julialeexu/) :small_blue_diamond: Website(Stay tuned!) :small_blue_diamond: [Email](mailto:jlxu@ucsd.edu)
 
 
