@@ -22,13 +22,11 @@ Here are some ideas to get you started:
 
 - :robot: I'm interested in ai and machine learning! In addition, I'm learning web development on the side. Thanks for visiting my profile!
 <p>&nbsp;</p>
-<p>&nbsp;</p> 
 
 ### :woman_technologist: Acitivities and Involvements
 Currently, I'm working on my project about human cognition and computation at [cogtoolslab](https://cogtoolslab.github.io/). 
 
 I'm also working as a member of the [Triple C](http://ucsdtriplec.org/), where I participate in Kaggle competitions.
-<p>&nbsp;</p> 
 <p>&nbsp;</p> 
 
 ### 📫 How to reach me
