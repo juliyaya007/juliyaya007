@@ -33,7 +33,7 @@ I'm also working as a member of the [Triple C](http://ucsdtriplec.org/), where I
 <p>&nbsp;</p> 
 
 ### :link: Links
-[Linkedin](https://www.linkedin.com/in/julialeexu/) :small_blue_diamond: Website :small_blue_diamond: [Email](mailto:jlxu@ucsd.edu)
+[Linkedin](https://www.linkedin.com/in/julialeexu/) :small_blue_diamond: Website(Stay tuned!) :small_blue_diamond: [Email](mailto:jlxu@ucsd.edu)
 
 
 
