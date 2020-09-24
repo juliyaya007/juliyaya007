@@ -19,7 +19,9 @@ ________________
 <!--
 **juliyaya007/juliyaya007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
-- :school: I'm currently a rising junior double majoring computer science and cognitive science (machine learning specialization) at [UCSD](https://ucsd.edu/)! - - - :robot: I'm interested in ai and machine learning! In addition, I'm learning web development on the side. Thanks for visiting my profile!
+- :school: I'm currently a rising junior double majoring computer science and cognitive science (machine learning specialization) at [UCSD](https://ucsd.edu/)! - - 
+
+- :robot: I'm interested in ai and machine learning! In addition, I'm learning web development on the side. Thanks for visiting my profile!
 <p>&nbsp;</p>
 <p>&nbsp;</p> 
 
