@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **juliyaya007/juliyaya007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](file:///Users/julia/Desktop/julialeexu/images/circle-cropped.png)
+________________
+### :cat2: Hi, I'm Julia! 
+<!--
+**juliyaya007/juliyaya007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+-->
+- :school: I'm currently a rising junior double majoring computer science and cognitive science (machine learning specialization) at [UCSD](https://ucsd.edu/)! - - - :robot: I'm interested in ai and machine learning! In addition, I'm learning web development on the side. Thanks for visiting my profile!
+<p>&nbsp;</p>
+<p>&nbsp;</p> 
+
+### :woman_technologist: Acitivities and Involvements
+Currently, I'm working on my project about human cognition and computation at [cogtoolslab](https://cogtoolslab.github.io/). 
+
+I'm also working as a member of the [Triple C](http://ucsdtriplec.org/), where I participate in Kaggle competitions.
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+
+### :link: Links
+[Linkedin](https://www.linkedin.com/in/julialeexu/) :small_blue_diamond: Website :small_blue_diamond: [Email](mailto:jlxu@ucsd.edu)
+
+
+
+
+
+
+
+
