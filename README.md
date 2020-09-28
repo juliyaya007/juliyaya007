@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p>&nbsp;</p>
 
 ### :woman_technologist: Acitivities and Involvements
-Currently, I'm working on my project about human cognition and computation at [cogtoolslab](https://cogtoolslab.github.io/). 
+Currently, I'm working on my project facedraw about human cognition and computation at [cogtoolslab](https://cogtoolslab.github.io/). 
 
 I'm also working as a member of the [Triple C](http://ucsdtriplec.org/), where I participate in Kaggle competitions.
 <p>&nbsp;</p> 
