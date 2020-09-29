@@ -1,6 +1,5 @@
 <!--
 **juliyaya007/juliyaya007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -12,13 +11,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <!--![](file:///Users/julia/Desktop/julialeexu/images/circle-cropped.png)-->
 ### :cat2: Hi, I'm Julia! 
 <!--
 **juliyaya007/juliyaya007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
-- :school: I'm a junior double majoring computer science and cognitive science (machine learning specialization) at [UCSD](https://ucsd.edu/)! 
+- :school: I am a junior double majoring computer science and cognitive science (machine learning specialization) at [UCSD](https://ucsd.edu/)! 
 
 - :robot: I'm interested in ai and machine learning! In addition, I'm learning web development on the side. Thanks for visiting my profile!
 <p>&nbsp;</p>
